@@ -17,6 +17,7 @@ func leftRotate(x uint64, i uint) uint64 {
 }
 
 func theta(A []uint64) {
+	
 	C := [5]uint64{}
 	D := [5]uint64{}
 
